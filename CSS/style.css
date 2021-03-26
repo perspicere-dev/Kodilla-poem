@@ -4,7 +4,7 @@
   width: 40%;
   margin: 100px auto;
   text-align: center;
-  
+
 }
 h1{
 Font-Family: 'Rufina', Serif
@@ -20,4 +20,12 @@ h2{
   margin: auto;
   width: 50%;
   text-align: left;
+}
+.screens{
+  width: 80%;
+  margin: auto;
+}
+.screen{
+  object-fit: cover;
+  width: 100%;
 }
